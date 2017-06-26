@@ -5,7 +5,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="This program is used to convert "
                                                     "headers into a table of contents")
     parser.add_argument("-f", "--filename", type=str,  default="input.txt", help="Input filename")
-    return parser
+    return parserasdfdsaf
 
 parser = parse_args()
 args = parser.parse_args()
